@@ -1,4 +1,4 @@
-# Tema POO - Etapa 3
+# GlobalWaves
 ___
 ##### Temă realizată de Lache Alexandra Florentina Georgiana, 321 CD
 ___
